@@ -8,7 +8,7 @@
   </a>
 </h1>
 <!-- //change here  -->
-<h2 align="center">I'm Shubham Taralekar, a Full-Stack Web Developer 👨‍💻 🚀</h2>  
+<h2 align="center">I'm Shubham Taralekar, a Front End Developer || QA Engineer || Automation Tester 👨‍💻 🚀</h2>  
   <br/>
 <br/>
 
@@ -16,9 +16,9 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"">
 </a>
 
-- 🌱 I’m currently learning **Spring Hibernate**
+- 🌱 I’m currently learning **Full-Stack**
 
-- 💬 Ask me about **Full-Stack**
+- 💬 Ask me about **Automation Testing**
 
 - 📫 How to reach me **shubhamtaralekar76@gmial.com**
 
